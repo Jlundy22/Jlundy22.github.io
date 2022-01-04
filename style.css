@@ -1,6 +1,6 @@
 body{
   background-color: #444444;
-  color: lime;
+  color: white;
   font-family: courier;
   margin: 10% 20%;
   
@@ -8,12 +8,24 @@ body{
 .exp-header{
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid orange;
-  border-bottom: 1px solid orange;
-  background-color: rgba(0,0,0, 0.1);
+  border-top: 1px solid yellow;
+  border-bottom: 1px solid yellow;
+  background-color: rgba(0,0,0, 0.5);
 }
 .name{
-  border-bottom: 5px solid orange;
+  border-bottom: 5px solid yellow;
   text-align: center;
   color: 
+}
+.work{
+  background-color: rgba(0,0,0, 0.1);
+  
+  border-bottom: 1px dotted yellow;
+  
+}
+
+.workz{
+  background-color: rgba(0,0,0, 0.1);
+  
+  
 }
