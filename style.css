@@ -30,7 +30,7 @@ body{
   
   
 } 
-img:hover{
+img{
   width: 8rem;
   float: right;
 }
