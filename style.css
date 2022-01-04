@@ -16,8 +16,8 @@ body{
   padding-top: 8rem;
   border-bottom: 5px solid yellow;
   text-align: center;
-  color: 
 }
+
 .work{
   background-color: rgba(0,0,0, 0.1);
   
@@ -27,10 +27,8 @@ body{
 
 .workz{
   background-color: rgba(0,0,0, 0.1);
-  
-  
-  
-} 
+}
+
 img{
   width: 8rem;
   float: right;
