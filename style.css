@@ -29,8 +29,14 @@ body{
   background-color: rgba(0,0,0, 0.1);
   
   
+  
 } 
 img{
   width: 8rem;
   float: right;
+}
+
+.school{
+  border-bottom: 5px solid yellow;
+  background-color: rgba(0,0,0, 0.1);
 }
