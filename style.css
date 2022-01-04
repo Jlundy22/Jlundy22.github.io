@@ -13,6 +13,7 @@ body{
   background-color: rgba(0,0,0, 0.5);
 }
 .name{
+  height: 8rem;
   border-bottom: 5px solid yellow;
   text-align: center;
   color: 
@@ -29,7 +30,7 @@ body{
   
   
 } 
-img{
-  width: 10rem;
+img:hover{
+  width: 8rem;
   float: right;
 }
